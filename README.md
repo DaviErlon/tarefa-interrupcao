@@ -22,6 +22,3 @@ A organização para a escrita de números na matriz segue a seguinte forma:
   - Um binário que se encontra em hexadecimal no arquivo C é lido com técnicas de bitmask
   e da a instrução para esses LEDs, isto é, o bit\[0\] é responsável pelo LED 1, o bit\[1\] pelo LED 2
   o bit\[2\] pelo LED 3, o bit\[3\] pelo LED 8, e assim por diante seguindo a ordem dos LEDs citada acima.
-
-## Vídeo demostrativo
-[Línk para o video](https://drive.google.com/file/d/1HtyOO65eTM0WXf-lHYBin70TQpHN6EUy/view?usp=drive_link)
